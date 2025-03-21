@@ -1,0 +1,77 @@
+00:00:00: [Music]
+00:00:00: foreign
+00:00:04: [Music]
+00:00:14: [Music]
+00:00:18: dc5112bt which is a 1D Barcode Scanner
+00:00:21: and
+00:00:22: dc5122bt which is a 2d barcode scanner
+00:00:25: so let's try and unbox both these
+00:00:28: scanners one by one
+00:00:30: so
+00:00:31: this is the programming manual which can
+00:00:34: be used to change the settings of the
+00:00:37: scanner
+00:00:38: secondly you'll be able to find a USB
+00:00:41: cable which can be used to charge the
+00:00:43: scanner as well as transparency
+00:00:46: [Music]
+00:00:47: then
+00:00:49: you will find a 2.4 gigahertz dongle
+00:00:53: which can be used to transmit the data
+00:00:56: with the help of radio frequency and
+00:00:58: lastly this is the Bluetooth barcode
+00:01:01: scanner
+00:01:04: and with a press of the trigger you'll
+00:01:08: be able to switch on the scan
+00:01:10: now let's unbox the kudi barcode scanner
+00:01:15: 5122 BT
+00:01:18: here as well you will be able to find
+00:01:20: all the manuals and cables and
+00:01:23: everything and the reason we call this a
+00:01:26: three in one scanner is that you can use
+00:01:29: this particular cable to transmit the
+00:01:31: data and use this as a wide scanner
+00:01:34: and then use this particular dongle and
+00:01:37: use this as a wireless Scanner with the
+00:01:40: help of radio frequency
+00:01:42: and lastly you can use the Bluetooth
+00:01:44: mode to
+00:01:46: connect your smart devices directly
+00:01:49: without the help of any dongle or any
+00:01:51: wire
+00:01:53: and to know how to connect the scanner
+00:01:56: with the help of the wire or the dongle
+00:02:00: we have posted separate videos for the
+00:02:04: wide scanner and the wireless scanner
+00:02:05: you can refer those videos
+00:02:07: in this video we'll try and connect this
+00:02:11: scanner
+00:02:12: to a computer with the help of Bluetooth
+00:02:15: directly so in order to connect
+00:02:18: the barcode scanner we just have to
+00:02:21: Simply scan this particular barcode
+00:02:25: which says Bluetooth hid mode
+00:02:28: yeah so this is now clear and then match
+00:02:31: so let's try and scan this particular
+00:02:33: barcode and then match
+00:02:35: and now this blinking light will tell
+00:02:37: you that this is in pairing mode now
+00:02:40: let's go to a computer screen and try
+00:02:43: and connect this particular Barcode
+00:02:44: Scanner we'll try and open the Bluetooth
+00:02:47: settings
+00:02:49: yeah so we'll simply click on ADD device
+00:02:53: and let's see yeah so a computer now is
+00:02:59: able to find this particular scanner and
+00:03:02: then we will simply connect this
+00:03:05: now it is connected and ready to be
+00:03:07: tested
+00:03:11: and now let's try and test the Bluetooth
+00:03:14: barcode scanner from decode
+00:03:18: [Music]
+00:03:23: and you can connect this Scanner with
+00:03:26: any of your smart devices be it mobile
+00:03:28: phone tablet directly with the help of
+00:03:30: Bluetooth so this was the demo of
+00:03:34: Bluetooth scanner from decode thank you
+00:03:36: for watching the video

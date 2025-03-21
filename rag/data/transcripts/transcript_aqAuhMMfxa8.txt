@@ -1,0 +1,105 @@
+00:00:00: hello and welcome to DC Tech talks in
+00:00:03: this video we'll be learning how to load
+00:00:05: the ribbon and the label role in the
+00:00:07: printer and how to calibrate the same as
+00:00:10: well
+00:00:10: so these are the label guides label
+00:00:13: holder ribbon spindle and the power
+00:00:16: adapter this is the ribbon and the
+00:00:19: sample label rules
+00:00:21: so we'll open the printer from the sides
+00:00:25: so this is a printer from the inside
+00:00:27: this is one push ribbon assembly which
+00:00:31: can be easily pushed to the 90 degree
+00:00:33: setting
+00:00:34: this is the label Rule and we'll install
+00:00:37: the label rule first so this is the
+00:00:40: label holder
+00:00:41: we'll try and place label guides so that
+00:00:44: your label rule doesn't move much while
+00:00:48: you're printing a label
+00:00:51: so we'll try and
+00:00:53: place the label holder inside the
+00:00:55: grooves
+00:00:57: and now we'll just
+00:01:00: pass the label rule
+00:01:02: beneath the Silver Rod and between the
+00:01:06: Green Label guides
+00:01:08: and you will be able to see a sensor
+00:01:11: right in front
+00:01:12: which helps sensing the gap between the
+00:01:15: labels to give you a seamless printing
+00:01:18: and you'll be able to see a tiny button
+00:01:21: which can be released and unreleased to
+00:01:25: adjust the label guides according to the
+00:01:28: width of the label
+00:01:30: so
+00:01:31: this is how we unrelease the button and
+00:01:35: adjust the label guides right so now
+00:01:38: we've adjusted the label guide we'll be
+00:01:41: installing our ribbon roll in the ribbon
+00:01:44: assembly so this is how a thermal ribbon
+00:01:47: looks and we'll be able to
+00:01:51: load the ribbon with the help of urban
+00:01:53: spindle
+00:01:55: through this push Groove
+00:01:57: and if we push the groove we'll be able
+00:02:00: to set the ribbon spindle quite easily
+00:02:03: so we'll have to install this ribbon
+00:02:06: spindle inside the ribbon core
+00:02:10: here how we do it and then place the
+00:02:13: ribbon spindle at the ribbon Groove
+00:02:15: which is at back of the ribbon assembly
+00:02:17: so now we'll place the second spindle
+00:02:21: inside of the empty cord to collect the
+00:02:24: ribbon wastage
+00:02:26: so this is the core where the ribbon
+00:02:29: wastage will get collected
+00:02:31: and we'll have to
+00:02:34: make sure that the dull side is in front
+00:02:38: which is the printing side and the shiny
+00:02:40: side
+00:02:42: is inside
+00:02:44: right so this is the correct way to
+00:02:47: install the ribbon and we'll paste the
+00:02:51: ribbon onto the empty core and this is
+00:02:55: how we install the ribbon but to make
+00:02:57: sure that we have installed the ribbon
+00:02:59: correctly we can take out a label from
+00:03:03: the label roll
+00:03:05: right so and try and paste it on the
+00:03:09: ribbon Rule and if just like this and if
+00:03:12: it releases the ink it means you are
+00:03:16: able to install the ribbon correctly
+00:03:19: right so now we'll try and learn how to
+00:03:23: calibrate the printer we'll have to plug
+00:03:26: our printer to the power supply because
+00:03:30: calibration needs power
+00:03:34: so we'll plug the power supply into the
+00:03:38: printer so this is the power socket
+00:03:43: we'll plug it in and we have the power
+00:03:46: switch of the printer on the right hand
+00:03:49: side so
+00:03:52: this is the power switch we will switch
+00:03:54: on the printer
+00:03:56: yeah
+00:03:59: so you will be able to see the blinking
+00:04:01: lights right in front and we have a feed
+00:04:04: button right below the blinking lights
+00:04:07: when we push it so it will start feeding
+00:04:10: our labels but if you have to change the
+00:04:12: label size you'll have to recalibrate
+00:04:14: the printer for that switch off the
+00:04:17: printer
+00:04:18: push the feed button and while pushing
+00:04:21: it switch it on
+00:04:23: so it will start blinking
+00:04:25: and it will start calibrating itself so
+00:04:29: this is how the printer Auto calibrates
+00:04:31: itself and as you can see it
+00:04:35: automatically stops at the label cap
+00:04:38: right so and you will be able to see a
+00:04:42: cutter right above it you will be able
+00:04:44: to tear your label with the help of the
+00:04:47: cutter
+00:04:48: thank you so much for watching

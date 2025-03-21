@@ -1,0 +1,86 @@
+00:00:00: [Music]
+00:00:00: foreign
+00:00:04: [Music]
+00:00:11: unbox and install two wireless Scanners
+00:00:14: from decode
+00:00:17: bc5112 which is a 1D Barcode Scanner and
+00:00:22: dc5122 which is a 2d Wireless
+00:00:27: so let's try and unbox the 1D barcodes
+00:00:29: kind of first dc5112
+00:00:32: so first of all we will be able to find
+00:00:35: a user manual programming guide which
+00:00:37: can be used to change the setting of the
+00:00:39: scanner secondly we'll be able to find a
+00:00:42: USB cable which can be used to charge
+00:00:45: the barcode scanner and transmit the
+00:00:47: data both
+00:00:49: and thirdly this is the 2.4 gigahertz
+00:00:53: dongle which can be used or which is
+00:00:56: rather used to transmit the data
+00:00:58: wirelessly
+00:01:00: and lastly this is the wireless barcode
+00:01:03: scanner from D code dc5112
+00:01:07: and we can attach the USB cable in this
+00:01:10: particular slot like this
+00:01:13: and the other end will go into the
+00:01:15: computer
+00:01:17: and this will charge the scanner and
+00:01:21: this little dongle can be attached to
+00:01:24: the computer to transmit the data
+00:01:26: wirelessly
+00:01:27: [Music]
+00:01:28: and now let's try and unbox the 2D
+00:01:31: barcodes kind of from decode which is
+00:01:33: 5122
+00:01:36: here as well we'll be able to find a
+00:01:38: programming guide
+00:01:40: in this case you will be able to see
+00:01:42: since this is
+00:01:44: so it has all the QR codes for this
+00:01:47: setting
+00:01:48: secondly this is the USB cable which can
+00:01:51: be used to charge the embarco scanner
+00:01:54: and transmit the data as well
+00:01:58: and this is the 2.4 gigahertz
+00:02:01: dongle
+00:02:03: and this is a scanner finally
+00:02:07: and you just have to Simply push the
+00:02:10: trigger to switch on the barcode scanner
+00:02:13: and if you have attached the dongle to
+00:02:15: your computer and it is not being able
+00:02:17: to transmit the data so you have to
+00:02:19: Simply scan the 2.4 g mode barcode and
+00:02:24: then match barcode and
+00:02:26: this will connect both the scanner and
+00:02:30: the dongle and it will start the
+00:02:32: communication
+00:02:34: so let's try and test both these
+00:02:38: scanners one by one so this particular
+00:02:41: light will tell you that the scanner is
+00:02:44: switched on and we can start the scanner
+00:02:48: testing now
+00:02:55: [Music]
+00:02:58: and now let's test the 1D Barcode
+00:03:02: Scanner which is DC y112
+00:03:06: and you'll be able to see that
+00:03:09: 1D Barcode Scanner throws LED light when
+00:03:13: it is switched on
+00:03:16: and we have attached the USB dongle
+00:03:19: which comes along with the scanner to
+00:03:21: the computer
+00:03:22: and again for some reason if your
+00:03:25: scanner and the dongle are not being
+00:03:27: able to communicate with each other you
+00:03:29: simply have to open the programming
+00:03:31: manual
+00:03:32: and you have to scan the 2.4 g mode
+00:03:35: barcode and then dim match barcode and
+00:03:39: this will link both the scanner and the
+00:03:41: dongles and you'll be able to use your
+00:03:43: scanner effectively and let's start
+00:03:45: scanning now
+00:03:51: foreign
+00:03:52: so this was the demonstration of
+00:03:55: Wireless Scanners from decode
+00:03:57: dc5112 and dc5122
+00:04:00: thank you so much for watching the video

@@ -1,0 +1,105 @@
+00:00:00: [Music]
+00:00:00: foreign
+00:00:04: [Music]
+00:00:12: portable data collector from decode
+00:00:14: which is model DC double three A2
+00:00:18: so first of all let's see what do we
+00:00:20: have inside the Box
+00:00:23: firstly you'll get this
+00:00:25: scanner programming manual which will
+00:00:27: help you program the barcode scanner or
+00:00:30: data collector secondly you will find
+00:00:33: this data cable which can be used to
+00:00:36: either recharge the batteries or
+00:00:38: transfer the data
+00:00:40: this is the RF dongle which helps you
+00:00:43: transmit the data wirelessly
+00:00:47: and lastly this is the portable data
+00:00:51: collector from decode which is DC double
+00:00:54: three A2 you'll be able to find a nice
+00:00:58: LCD screen along with the keyboard and
+00:01:01: you also get some function keys
+00:01:04: and this is the USB slot and you can use
+00:01:09: this to either transfer the data or
+00:01:11: recharge the cells this is the scan
+00:01:14: engine
+00:01:15: and this is the power button so let's
+00:01:17: try and switch on the barcode scanner
+00:01:20: and these are the different modes that
+00:01:23: you get on this particular scanner
+00:01:26: firstly you get the scan gun mode which
+00:01:29: can be used to transmit the data on a
+00:01:32: real-time basis either wirelessly or
+00:01:34: with the help of
+00:01:35: data cable second second is the collect
+00:01:38: mode where you can
+00:01:41: scan the barcode store the barcodes in
+00:01:43: the memory of the scanner and then
+00:01:45: transmit at a later stage
+00:01:48: third is the inventory mode
+00:01:50: where you find similar kind of barcodes
+00:01:54: or similar products in your stock so
+00:01:56: you'll be able to stock take with the
+00:01:58: help of inventory mode
+00:02:00: then you have the upgrade mode which
+00:02:04: helps you upgrade the operating system
+00:02:06: of this particular scanner
+00:02:08: then you have the export mode which
+00:02:12: helps you export or transmit the data
+00:02:14: which you have collected in collect or
+00:02:16: inventory mode
+00:02:17: lastly you have the settings to access
+00:02:20: the settings of this particular scanner
+00:02:24: so let's try and see and find out how
+00:02:27: the scan gun option works for that we
+00:02:30: have to connect this particular dongle
+00:02:32: in our computer
+00:02:34: so as and when we attach this dongle in
+00:02:37: a computer you will be able to see the
+00:02:39: signal strength which means
+00:02:41: this dongle is now connected with this
+00:02:44: scanner
+00:02:46: and once we enter the scan gun mode
+00:02:49: we'll we have some barcodes right in
+00:02:52: front of us let's try and scan the
+00:02:54: barcodes
+00:02:55: so when we scan the barcode you will be
+00:02:58: able to see that this scanner or this
+00:03:02: mode is wirelessly transmitting the data
+00:03:05: on a real-time basis
+00:03:08: right
+00:03:10: and you'll be able to find the length of
+00:03:13: the barcode last barcode total scans and
+00:03:17: you have the total collected data on
+00:03:19: your computer screen
+00:03:22: and this was this Canon mode
+00:03:25: now let's try and test the collect
+00:03:28: option so once you click on it this is
+00:03:31: the screen where you can input the file
+00:03:33: name
+00:03:34: so for this particular video Let's name
+00:03:36: it as one
+00:03:38: so you'll be able to see your file name
+00:03:40: here you just click on that particular
+00:03:42: file number and then scan the barcodes
+00:03:44: and as you can see on the screen you
+00:03:47: won't be able to find any barcode being
+00:03:49: transmitted because these barcodes are
+00:03:52: being collected into the memory of this
+00:03:54: particular scanner and you can see the
+00:03:56: details that you have scanned nine
+00:03:59: barcodes
+00:04:00: and now to export all the collected data
+00:04:03: you simply have to go on export tab and
+00:04:06: once we enter into the export tab you
+00:04:08: have collect export option inventory
+00:04:10: export option because we want to collect
+00:04:12: export we'll simply click on collect
+00:04:15: export first is the option to export the
+00:04:18: entire file second is the keyboard
+00:04:20: export when you want to when you want to
+00:04:22: export the file on cursor so we have to
+00:04:25: export single Library we'll click on
+00:04:27: single library and the file which you
+00:04:29: want to export now you can see the file
+00:04:32: has been exported

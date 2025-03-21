@@ -1,0 +1,107 @@
+00:00:00: [Music]
+00:00:00: foreign
+00:00:04: [Music]
+00:00:13: so taking the demonstration further
+00:00:15: we'll
+00:00:17: check the inventory mode now
+00:00:20: so once you get into the mode we can
+00:00:22: name our file and I'll just scan this
+00:00:25: particular barcode six times
+00:00:27: right so as you can see the data on the
+00:00:31: screen it will show you total quantity
+00:00:33: scanned S6
+00:00:35: and count number one means we've scanned
+00:00:38: one barcode six times so once we go to
+00:00:41: inventory export then keyboard export
+00:00:44: single Library export so you'll be able
+00:00:47: to see on the screen that you have
+00:00:49: the data separated by comma so it means
+00:00:53: barcode comma six
+00:00:55: [Music]
+00:00:56: and now let's check the export settings
+00:01:00: so once we get in the scanning format
+00:01:03: will be able to customize the data
+00:01:06: output so it says field one would be
+00:01:08: barcode and then it will automatically
+00:01:11: take you to the second tab
+00:01:13: your your field one would be the library
+00:01:16: number separator would be comma then
+00:01:18: barcode and then enter to the second
+00:01:21: line
+00:01:22: for the second barcode
+00:01:24: right and inventory so library number
+00:01:28: comma barcode comma then the total
+00:01:32: number and in all these fields can be
+00:01:35: customized and now let's check the
+00:01:37: settings
+00:01:38: so understand code settings we have Scan
+00:01:41: mode set
+00:01:42: in escan it will operate like a normal
+00:01:45: barcode scanner in key delay there would
+00:01:48: be a certain delay of the LED throw and
+00:01:52: in continuous scanning it will
+00:01:54: continuously throw the LED onto the
+00:01:56: barcode
+00:01:57: and several other settings are there
+00:01:59: system volume backlight color so and
+00:02:03: then lastly you have a factory reset
+00:02:06: button as well
+00:02:09: until now we've only exported the data
+00:02:11: using keyboard export format now let's
+00:02:15: try and Export the entire file right so
+00:02:18: we'll go to the export tab under that
+00:02:22: we've already used the keyboard export
+00:02:24: now we'll use the file export mode
+00:02:27: right and to use the file export mode
+00:02:30: you will have to download a utility
+00:02:32: software provided with this scanner
+00:02:35: so this is the utility software and once
+00:02:39: you click on it you will get
+00:02:41: two folders one is collect and one is
+00:02:44: inventory
+00:02:46: right so and in the settings tab you
+00:02:50: will get the file format in which you
+00:02:52: need your files this would be the file
+00:02:55: name let's name it test file for this
+00:02:59: particular demo
+00:03:00: and lastly you have this path where you
+00:03:04: can choose the path when you need to
+00:03:06: store the data
+00:03:09: and now let's try and use the file
+00:03:11: export mode now under export select mode
+00:03:14: file export it is asking us to connect
+00:03:17: the data cable USB line and this file
+00:03:21: export mode cannot be used wirelessly so
+00:03:25: here we connect the data cable
+00:03:28: which is already connected to a computer
+00:03:30: and once we connect the data cable you
+00:03:33: can see it will start exporting the data
+00:03:35: and now export success it means our data
+00:03:38: has been exported to our computer
+00:03:40: and under the collect file you'll see
+00:03:44: there is this test file and you will be
+00:03:47: able to see the already collected data
+00:03:49: in this file
+00:03:50: now let's try and Export the inventory
+00:03:54: data so once we click on export
+00:03:58: as you can see this export is also
+00:04:00: successful now we'll go to the inventory
+00:04:04: file and this s file is already exported
+00:04:08: and here we can see the data
+00:04:11: so this was the file export mode now
+00:04:15: once we've exported file there might be
+00:04:17: a need to delete the data and for that
+00:04:19: we'll use delete option so once we
+00:04:23: delete the data successfully then let's
+00:04:26: try and see if we have the data under
+00:04:30: collect mode sorry we have deleted the
+00:04:32: inventory data so we'll have to go and
+00:04:34: check the inventory export option right
+00:04:36: so you will be able to see there is no
+00:04:39: valid data available
+00:04:41: and now let's try and delete the collect
+00:04:43: data as well so now once it is
+00:04:45: successfully deleted we'll be able to
+00:04:48: see there is no valid data so this was
+00:04:50: the demo of double three two thank you
+00:04:52: for watching the video

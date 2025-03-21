@@ -1,0 +1,145 @@
+00:00:00: [Music]
+00:00:00: foreign
+00:00:04: [Music]
+00:00:10: so in this video today we are going to
+00:00:12: learn how to use the bartender software
+00:00:15: which is a barcode printing software
+00:00:17: which comes along with your barcode
+00:00:19: printer in this case
+00:00:21: decode dc420 Pro Series
+00:00:25: so once we open the software we will
+00:00:28: have to click on this new tab because we
+00:00:31: want to design a new label a blank label
+00:00:34: so once we click on that we'll have to
+00:00:37: keep this blank template checked do we
+00:00:40: want to specify any custom range no we
+00:00:43: want to design a single label yes if we
+00:00:46: have some wastage around then we'll
+00:00:48: click yes we have rounded edges yes
+00:00:51: and we are trying to design a 100 mm
+00:00:55: wide and a 50 mm High barcode so the
+00:01:01: width would be 100 mm and the height
+00:01:03: would be 50 mm right so this is the size
+00:01:07: and then the orientation we can select
+00:01:11: portrait if we have a landscape then we
+00:01:13: can design landscape if you want to
+00:01:15: rotate it 180 degree or portrait and
+00:01:18: lands here we can do that as well once
+00:01:20: we click next and then once we finish
+00:01:22: we'll have a blank template right in
+00:01:25: front of us
+00:01:27: so if we want to design a label then we
+00:01:31: have several options available in this
+00:01:33: particular software this is the barcode
+00:01:35: tab
+00:01:36: this is the text tab this is Line tab if
+00:01:39: you want to insert any kind of line if
+00:01:41: we want to insert any kind of shapes
+00:01:43: this is the tab for that so under text
+00:01:46: if you want to add a single line then
+00:01:48: single if you want to add a paragraph
+00:01:50: then we'll have to select a multi-line
+00:01:53: so this is the text sample text so once
+00:01:58: we click on that we can select any kind
+00:02:01: of font which we we might want then the
+00:02:05: font size bold italics or underline
+00:02:08: whatever formatting you might want with
+00:02:11: your text
+00:02:12: if you want to align your text in center
+00:02:16: from left to right or from top to bottom
+00:02:19: or you can freely float your sample text
+00:02:22: as well
+00:02:23: so this gives you complete freedom
+00:02:27: and then we might want to enter a
+00:02:30: barcode as well so in this case we'll
+00:02:32: select a simple 1D code 128
+00:02:35: so this is a 1D barcode which we've
+00:02:39: inserted now once we double click on
+00:02:42: that and select data source
+00:02:45: and then you can type in whatever data
+00:02:47: you might want your barcode to contain
+00:02:51: in this case we'll simply write the
+00:02:54: model number of this particular barcode
+00:02:56: printer which is decode 421 Pro
+00:02:59: so here it is right in front of you and
+00:03:03: then let's enter one 2D
+00:03:06: barcode which is a QR code in this case
+00:03:10: so let's enter one QR code
+00:03:13: and again in data source you can select
+00:03:16: whatever data you might want your QR
+00:03:20: code to contain
+00:03:21: right so but just in case you don't want
+00:03:25: this one two three four five six seven
+00:03:27: eight two human readable you just click
+00:03:28: on human readable select none and then
+00:03:31: close it so this barcode contains the
+00:03:35: same value which is one two three four
+00:03:37: five six seven eight but this is not
+00:03:39: human readable you will be only able to
+00:03:41: see it once you scan the barcode
+00:03:44: so now let's try and print this label so
+00:03:48: a system is already selected this
+00:03:51: particular barcode printer now once we
+00:03:53: hit print
+00:03:54: we have this exact label
+00:03:57: printed right in front of us
+00:04:00: so this is the label but now if in case
+00:04:04: we want to print
+00:04:06: any data in a serialized manner so let's
+00:04:11: type in one two three or five and again
+00:04:13: we'll double click on this particular
+00:04:16: barcode we'll go to transforms we'll
+00:04:19: click on serialization
+00:04:23: so in case you want to print in an
+00:04:26: increasing order then select increment
+00:04:28: and for decreasing order decrement so
+00:04:31: the increment value would be one
+00:04:34: right and then we'll simply close it and
+00:04:37: we'll try and print this particular
+00:04:39: label once again
+00:04:41: and we just print for barcode right so
+00:04:46: there it is
+00:04:48: five six seven eight and our software
+00:04:52: already flashes the number nine which is
+00:04:55: the next barcode from which it will
+00:04:57: start printing and now let's try and
+00:05:00: design a format for a two across label
+00:05:03: which means we have one small label on
+00:05:06: the left and one small label on the
+00:05:08: right just like this so these are called
+00:05:11: two across labels and these can be
+00:05:15: designed in this particular bartender
+00:05:17: software as well
+00:05:19: and what do you have to do you just
+00:05:23: click on the page setup
+00:05:26: and the width would be same you just
+00:05:29: have to go to the layout setting and
+00:05:31: increase the number of columns which in
+00:05:34: this case is 2.
+00:05:36: and if you happen to have more number of
+00:05:39: labels across then you can simply
+00:05:41: increase the number of columns to 3 4
+00:05:43: whatever
+00:05:44: the number of labels are so it is saying
+00:05:48: that we'll adjust the format according
+00:05:51: to the new label size we say yes so
+00:05:54: let's try and adjust the format
+00:05:56: according to the new label size
+00:05:59: so this is a 50 by 50 label because
+00:06:02: we've cut the label format into I hope
+00:06:05: you remember that
+00:06:06: and now let's try and see how the
+00:06:10: preview looks like
+00:06:12: so this is the print preview which is
+00:06:15: also in serialization because we
+00:06:18: selected serialization
+00:06:20: for our last label format so let's try
+00:06:23: and print the labels
+00:06:25: so now you can see there are two labels
+00:06:29: across in serialization 49 50 51 and 52
+00:06:34: and as you can see on the screen your
+00:06:37: next label number would be 5 3. so this
+00:06:42: completes the basic tutorial for
+00:06:44: bartender software
+00:06:45: I hope you liked the video thank you so
+00:06:48: much for watching

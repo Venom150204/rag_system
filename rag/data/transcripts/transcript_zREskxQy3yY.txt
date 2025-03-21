@@ -1,0 +1,159 @@
+00:00:00: [Music]
+00:00:00: foreign
+00:00:04: [Music]
+00:00:12: some basic troubleshooting for decode
+00:00:15: label printer
+00:00:17: many a times we Face a problem that we
+00:00:21: are getting blank labels or misaligned
+00:00:24: printing from the barcode printer
+00:00:27: so let's try and see an example of a
+00:00:30: misalign printing so
+00:00:33: let's try and print a label
+00:00:36: and here is the output as you can see
+00:00:39: this is a misaligned printing some part
+00:00:42: of it is on the lower label and some
+00:00:46: part of it is on the upper label
+00:00:48: and this is clearly an example of
+00:00:52: misalign printing
+00:00:53: so what do we do in this case we simply
+00:00:57: try and recalibrate the printer
+00:00:59: and to learn how to calibrate the
+00:01:02: printer you'll have to go back and watch
+00:01:05: our YouTube video on calibration
+00:01:08: otherwise there can be a problem that
+00:01:10: there is a problem with the label format
+00:01:13: or a size of the label so this
+00:01:17: particular label resolved the size 100
+00:01:19: into 50 mm and as you can see we've put
+00:01:23: wrong height of the label because of
+00:01:24: which we're not getting the proper
+00:01:27: printout
+00:01:28: so as per the label size we'll correct
+00:01:31: it and we'll put 50 mm
+00:01:33: and we'll adjust the table format
+00:01:38: according to the actual label size which
+00:01:40: is 100 mm into 50m
+00:01:43: and then let's try and print this label
+00:01:45: now
+00:01:46: and
+00:01:48: here you go we have the perfect printout
+00:01:52: for the label and many other times we
+00:01:55: Face a problem that we are not getting
+00:01:57: sufficient or enough darkness in our
+00:02:00: printout so what do we do we simply
+00:02:02: click Ctrl pre we give a print command
+00:02:05: and then we go to
+00:02:07: the properties and then options and this
+00:02:11: is the darkness Tab and we can scroll
+00:02:13: the darkness according to a need
+00:02:17: here from this particular Tab and once
+00:02:19: we've adjusted the darkness we can
+00:02:21: simply reprint the labels
+00:02:25: and you can recheck it by recalibrating
+00:02:28: a printer
+00:02:30: and now
+00:02:32: we also face a problem that in spite of
+00:02:35: giving a print command we are not
+00:02:37: getting the printout
+00:02:39: so one of the major reason for this
+00:02:42: particular problem is that our USB cable
+00:02:45: itself is not connected so we have to
+00:02:48: check for the USB connection whether our
+00:02:50: cable is connected or not
+00:02:52: and once you've done the connection
+00:02:54: we'll be able to get the print out
+00:02:58: but if our USB cable is connected and
+00:03:01: our we're not getting the print out then
+00:03:04: we have to check whether our label is
+00:03:08: correctly placed under the label sensor
+00:03:11: or not so here we open the printer and
+00:03:14: the ribbon assembly
+00:03:16: so this particular blue part is the
+00:03:19: label sensor so you have to see whether
+00:03:23: this particular label sensor is right on
+00:03:26: top of the label
+00:03:27: so this problem occurs when there are
+00:03:30: small labels and this particular sensor
+00:03:33: is not on top of the labels
+00:03:36: and we can adjust this particular sensor
+00:03:39: by moving it right or left
+00:03:41: and here we have readjusted our labels
+00:03:44: and there is one sensor right in front
+00:03:47: which is the gap or a black mark sensor
+00:03:51: depending upon the kind of label you're
+00:03:53: using
+00:03:54: so now once we've readjusted our labels
+00:03:56: we'll try it and
+00:03:59: print the label once again
+00:04:02: and let's try and give a print command
+00:04:05: once again
+00:04:06: to see whether we are getting the
+00:04:08: printout or not and here we go so now
+00:04:12: we've gotten the perfect printout
+00:04:14: [Music]
+00:04:16: and now as far as printing quality goes
+00:04:20: label and ribbon compatibility is of
+00:04:23: utmost importance
+00:04:25: if you're using a paper label then we
+00:04:28: have to use wax or wax raisin ribbon and
+00:04:31: if you're using polyester label then we
+00:04:33: have to use raisin ribbon
+00:04:35: otherwise we can simply go to document
+00:04:38: properties so once we give the control P
+00:04:42: command we will get this particular
+00:04:44: window and we have to click on document
+00:04:46: properties and then options
+00:04:50: and this is the darkness
+00:04:54: bar and we can adjust the darkness as we
+00:04:58: told you earlier and we can also adjust
+00:05:00: the print speed to get the optimal
+00:05:03: Printing and if you want to print the
+00:05:07: Amazon or Flipkart shipping labels then
+00:05:09: you need to use direct thermal mode
+00:05:11: and this is the kind of different
+00:05:14: setting for a continuous label or a
+00:05:17: black mark label different kind of
+00:05:19: labels which are available in the market
+00:05:21: and now many times we get this complaint
+00:05:26: that we are giving the print command but
+00:05:29: we are getting junk characters as
+00:05:31: different out
+00:05:33: so here is an example of Chunk
+00:05:35: characters so we'll try and give the
+00:05:39: print command and as you can see a
+00:05:41: printer is giving chunk characters as a
+00:05:44: printer
+00:05:45: which simply means our printer has gone
+00:05:47: into junk mode what we have to do we
+00:05:50: have to switch off the label printer
+00:05:53: yeah so this is the kind of junk
+00:05:57: characters it will give once it goes
+00:05:59: into jump mode and then we have to
+00:06:01: switch it on
+00:06:02: so switch off and switch on NAS told you
+00:06:06: earlier it is always suggested that you
+00:06:08: press the feed button once you readjust
+00:06:10: any of the printer settings
+00:06:12: let's try and print the label once again
+00:06:16: and here you go we have the perfect
+00:06:20: printout for the label once you switch
+00:06:22: off and switch on the printer
+00:06:25: and lastly
+00:06:26: many a times we Face a problem that we
+00:06:29: have given the print command but we are
+00:06:32: not getting any kind of printout so what
+00:06:35: do we have to do we have to go to the
+00:06:37: taskbar and click on the printer icon
+00:06:41: so this is the printer icon and check
+00:06:44: whether if we have some pending
+00:06:48: documents
+00:06:49: in queue so we have to
+00:06:52: Simply cancel all those pending
+00:06:55: documents and if you give different
+00:06:57: command now you will be able to get the
+00:07:00: print out
+00:07:02: so this was the basic troubleshooting
+00:07:04: guide for decode label printers
+00:07:07: I hope you like the video and thank you
+00:07:10: so much for watching
+00:07:12: [Music]

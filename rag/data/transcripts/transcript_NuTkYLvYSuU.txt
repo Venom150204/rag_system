@@ -1,0 +1,149 @@
+00:00:00: [Music]
+00:00:00: foreign
+00:00:04: [Music]
+00:00:13: Mobile printer from decode this is a two
+00:00:16: in one model
+00:00:18: we call this two in one because it can
+00:00:20: print receipt roles
+00:00:22: like these yes
+00:00:25: these are the receipt roles and label
+00:00:27: roles as well
+00:00:29: that's why we call this two in one two
+00:00:31: inch Mobile printer
+00:00:34: so first of all let's try and test the
+00:00:37: receipt rules printing
+00:00:40: so whenever we switch on this particular
+00:00:43: printer on the middle button will give
+00:00:46: you the green light and the red light if
+00:00:49: your media is not loaded red light
+00:00:51: simply means you have not loaded your
+00:00:53: seat rules
+00:00:55: simply click the button on your right to
+00:00:58: open the printer
+00:01:02: and let's load the media which is
+00:01:06: receipt tool in this case and once you
+00:01:08: load the media your red light will
+00:01:11: vanish let's press the feed button
+00:01:14: it is feeding properly so it means our
+00:01:16: printer is absolutely ready to be tested
+00:01:19: Let's test the application as well
+00:01:23: to test the application we simply have
+00:01:26: to go to the Google Play Store and
+00:01:29: search for the application for barcode
+00:01:33: and this is the application which will
+00:01:36: help you to design your receipt and
+00:01:39: labels for barcode edit
+00:01:42: so we've already downloaded this to our
+00:01:44: mobile phone let's try and open this
+00:01:47: particular
+00:01:48: application
+00:01:50: before that we'll have to pair this
+00:01:53: printer with our mobile phone
+00:01:55: let's unpair this first so this printer
+00:01:59: 001
+00:02:00: is the printer we need to pair we'll
+00:02:03: have to pair this with the code double
+00:02:05: zero double zero okay
+00:02:08: now this printer is connected with our
+00:02:12: mobile phone let's click on the printer
+00:02:15: logo on top right Bluetooth connection
+00:02:18: let's refresh this and once you refresh
+00:02:21: this this will give you a blue light
+00:02:25: which means your printer is now paired
+00:02:27: with the mobile phone
+00:02:29: we've already
+00:02:31: reloaded some of the receipt formats but
+00:02:35: let's click on new
+00:02:39: so we'll give this test as the label
+00:02:42: name our seat width is 50 mm so we'll
+00:02:47: mention this as 50. height we can
+00:02:50: mention as 50 as well
+00:02:53: and then we can simply save this
+00:02:58: so this is our mobile format window
+00:03:01: let's insert one simple barcode
+00:03:05: now let's insert some text as well
+00:03:09: for the sake of Simplicity we'll just
+00:03:12: give or enter the mobile printer model
+00:03:17: which is DC 2m bluetooth printer
+00:03:25: yes now once we've entered the text we
+00:03:27: can format it and place it wherever we
+00:03:29: want
+00:03:30: now let's leave it here then you have to
+00:03:33: Simply click the printer logo given on
+00:03:36: top and then click on confirm print
+00:03:41: once you click on that it will give you
+00:03:43: a nice printout
+00:03:45: so if you want to take multiple
+00:03:47: printouts you just simply have to
+00:03:49: replace number one with three and you
+00:03:53: will get three copies of the same format
+00:03:57: which you've just designed
+00:04:01: so this was the testing of our receipt
+00:04:03: role
+00:04:04: now let's try and test our labels as
+00:04:07: well for that we switch off the printer
+00:04:10: first
+00:04:11: and then you have to click the setting
+00:04:14: button the leftmost button and the power
+00:04:17: button simultaneously
+00:04:20: and you have to wait for the red light
+00:04:23: to switch on then you have to release
+00:04:25: the power button but you have to keep on
+00:04:28: pressing the setting button
+00:04:30: till it releases the this heat now you
+00:04:33: have to leave the setting button
+00:04:36: so it says current mode is received you
+00:04:38: simply have to click on feed button once
+00:04:40: and it will change your current mode
+00:04:43: from receipt to label let's switch off
+00:04:46: the
+00:04:47: printer and replace our media from
+00:04:50: receipt to
+00:04:52: labels
+00:04:55: so we will test with 50 mm by 25 mm
+00:04:58: labels or we can call these 2 inch by
+00:05:01: one inch labels
+00:05:03: let's switch on the printer
+00:05:07: so green lights will tell you the
+00:05:09: battery health and the printer is
+00:05:10: switched on
+00:05:13: and we've already loaded the media so
+00:05:15: red light is not on
+00:05:17: CE you click on feed button it will it
+00:05:19: is telling us that this printer is
+00:05:22: feeding properly and is properly
+00:05:24: calibrated
+00:05:26: let's now go back to our four bar code
+00:05:29: application once again
+00:05:33: and we'll have to click on the Bluetooth
+00:05:36: connection and refresh it to pair it
+00:05:40: and before actually designing the format
+00:05:42: we'll have to change the settings first
+00:05:47: so let's go to the setting part
+00:05:51: because this application is still in
+00:05:54: receipt mode so as you can see the
+00:05:56: switcher mode this is in receipt mode
+00:05:58: we'll have to change from receipt to
+00:06:00: label mode
+00:06:05: now we have to Simply click on new let's
+00:06:08: name the label as test
+00:06:11: uh the width of a label is 50 mm and the
+00:06:14: height is 25 mm and we since we have the
+00:06:18: gap between the labels we'll click on
+00:06:19: Gap and then this is the designing
+00:06:23: window
+00:06:24: let's insert one simple 1D barcode
+00:06:29: right and let's insert one QR code for
+00:06:32: the testing purpose
+00:06:35: so this is our final format and then
+00:06:38: let's click on refresh to see if our
+00:06:42: printer is connected yes it is connected
+00:06:43: and let's click on
+00:06:45: the printer icon
+00:06:48: let's press on feed button yes
+00:06:52: so this is the print and we can give the
+00:06:56: print once again and let's test with
+00:06:58: multiple copies as well
+00:07:01: so yes these are the multiple copies
+00:07:04: so this was the demo of dc2m
+00:07:08: thank you so much for watching the video

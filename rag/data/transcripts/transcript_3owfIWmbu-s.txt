@@ -1,0 +1,100 @@
+00:00:00: [Music]
+00:00:00: foreign
+00:00:04: [Music]
+00:00:11: in this video we'll try and learn how to
+00:00:15: set up our decode barcode printer and
+00:00:19: install the useful softwares for the SIM
+00:00:22: with all the printers you get a CD in
+00:00:26: which you will get all the useful
+00:00:28: softwares and drivers which you can see
+00:00:30: in this particular folder
+00:00:32: right but just in case if you happen to
+00:00:37: lose that particular CD you simply have
+00:00:40: to go to
+00:00:42: decodeinternational.com right where you
+00:00:45: can find all the useful softwares
+00:00:47: we'll just show you the website this is
+00:00:50: the website
+00:00:51: decodeinternational.com and
+00:00:54: in the download section you will be able
+00:00:56: to find all the useful drivers and
+00:00:58: softwares
+00:01:00: so let's try and click on Windows driver
+00:01:02: and start the installation process
+00:01:05: by the way installation process of all
+00:01:07: the decode barcode printers is
+00:01:09: absolutely same so if you've learned how
+00:01:11: to download one printer you've learned
+00:01:13: how to download every decode backward
+00:01:15: printer
+00:01:16: right let's click next check on run and
+00:01:20: then you have to click finish
+00:01:22: [Music]
+00:01:24: so that this will start our installation
+00:01:27: process
+00:01:30: so we have to wait for the window to pop
+00:01:32: up yes so this is our install wizard
+00:01:35: let's click on next this is the default
+00:01:38: printer name
+00:01:39: you can leave it as it is or if you want
+00:01:42: to rename your barcode printer you can
+00:01:44: rename it as per your convenience let's
+00:01:47: click on finish
+00:01:49: and wait for the installation to
+00:01:51: complete
+00:01:52: so this completes our installation
+00:01:55: successfully
+00:01:57: we'll have to close this particular
+00:01:59: window and then we'll have to go to the
+00:02:01: control panel which in this case we have
+00:02:04: saved this particular shortcut on the
+00:02:07: desktop devices and printers section
+00:02:10: this is our default printer name two
+00:02:13: zero five four we'll go to the printer
+00:02:15: properties
+00:02:17: firstly we'll have to check for ports so
+00:02:20: if your printer accept the default Port
+00:02:23: then mellingwood otherwise you'll have
+00:02:25: to test individual ports one by one
+00:02:29: to see which Port is being accepted by
+00:02:32: your barcode printer in general
+00:02:35: we have to go to the preference Tab and
+00:02:39: we have different default
+00:02:42: label sizes otherwise you can set up
+00:02:45: your own custom size
+00:02:47: for example let's name this particular
+00:02:50: label as 100 into 50m we have named it
+00:02:53: then let's resize it
+00:02:55: this is the format of 100 into 50 mm
+00:02:58: barcode label right so let's go to the
+00:03:03: advanced options once we've set up the
+00:03:06: custom size
+00:03:07: so so if we have some tolerance around
+00:03:09: the label we can select
+00:03:12: horizontal or vertical offset otherwise
+00:03:14: we can straight away go to Graphics
+00:03:16: select the contrast of the labels which
+00:03:18: we can more often than not select on
+00:03:21: none
+00:03:22: we have to select the thermal printing
+00:03:25: technology which is direct thermal in
+00:03:27: case of Amazon and Flipkart labels and
+00:03:29: thermal transfer in case of
+00:03:31: ribbon barcodes after that we have to
+00:03:35: select the media type if these labels
+00:03:38: are with gaps without gaps with black
+00:03:40: marks or continuous roles we have to
+00:03:42: select that
+00:03:43: then in options we have we can select
+00:03:46: the darkness of the label or the print
+00:03:50: which we want
+00:03:52: once we select the darkness we are ready
+00:03:55: to apply the changes and print the test
+00:03:57: page right so let's try and print the
+00:04:00: test page this is the test page let's
+00:04:03: try and print this again
+00:04:05: now we have the second label and this
+00:04:07: completes the setup of our barcode
+00:04:10: printer
+00:04:11: hope you like the video and thank you so
+00:04:14: much for watching

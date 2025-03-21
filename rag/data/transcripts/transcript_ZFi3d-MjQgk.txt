@@ -1,0 +1,52 @@
+00:00:00: [Music]
+00:00:00: foreign
+00:00:04: [Music]
+00:00:10: dc5142
+00:00:18: first of all let's try and find out what
+00:00:21: do we have inside the Box
+00:00:23: so let's see
+00:00:25: okay so first of all we'll find a user
+00:00:29: manual which will guide you how to
+00:00:32: install this particular scanner
+00:00:34: secondly
+00:00:36: we have one USB cable
+00:00:38: with the help of which you can connect
+00:00:40: this scanner to any computer
+00:00:44: and lastly
+00:00:47: this is our presentation scanner
+00:00:51: dc5142
+00:00:53: [Music]
+00:00:54: right
+00:00:56: and as you can see it has a huge scan
+00:00:59: screen which gives you a huge scan area
+00:01:03: it has one touch control for sound and
+00:01:05: alarm
+00:01:07: at the back you have this USB slot
+00:01:10: and you can insert the USB cable inside
+00:01:13: this and the second end can be inserted
+00:01:16: into a computer and you can start using
+00:01:20: this particular scanner
+00:01:23: and now
+00:01:25: let's try and switch on this scanner for
+00:01:29: this we have to plug in the second end
+00:01:32: of the cable into a computer
+00:01:42: and once it is switched on within start
+00:01:46: using this scanner for the purpose of
+00:01:48: testing we have one small QR code one
+00:01:52: large QR code one large 1D barcode and
+00:01:55: one small one day barcode
+00:01:59: and let's try and see how this panel
+00:02:02: works
+00:02:04: and as you can see these blinking lights
+00:02:07: will tell you that it has already
+00:02:09: started to scan all these barcodes
+00:02:11: but since we have a rotating motor
+00:02:15: let's try and find out the speed of this
+00:02:18: scan engine that how fast this
+00:02:21: particular scan engine actually is
+00:02:24: and let's try and start this rotating
+00:02:27: motor to check the scan speed
+00:02:46: so this was the unboxing and
+00:02:49: installation of dc5142
+00:02:52: thank you for watching the video
+00:02:56: [Music]

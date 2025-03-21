@@ -1,0 +1,45 @@
+00:00:00: [Music]
+00:00:00: foreign
+00:00:04: [Music]
+00:00:10: unbox and install
+00:00:13: decode
+00:00:14: dc5132 tabletop scanner so this is the
+00:00:18: scanner which is normally used in retail
+00:00:22: shops at the checkout counter so let's
+00:00:25: try and see what do we have inside the
+00:00:26: Box
+00:00:27: first and foremost we have this
+00:00:30: programming guide which helps you
+00:00:32: program this particular barcode scanner
+00:00:35: secondly
+00:00:37: we have this beautiful scanner which is
+00:00:40: dc5132
+00:00:43: and the best part is you get an attached
+00:00:47: cable along with this scanner and you
+00:00:50: have an adjustable head so you can
+00:00:53: adjust the head of the scanner according
+00:00:54: to your convenience and this is the USB
+00:00:57: cable which can be connected to your
+00:01:00: computer
+00:01:00: [Music]
+00:01:02: so this is the scanner dc5132
+00:01:07: and now
+00:01:09: Let's test the speed of the scanner
+00:01:12: and for that we'll have to attach the
+00:01:15: USB cable into a computer and when we
+00:01:19: attach the cable so these red lights
+00:01:22: will tell you that
+00:01:24: this particular scanner is now switched
+00:01:25: on
+00:01:26: for the purpose of testing we have put
+00:01:29: four kinds of barcode on the rotating
+00:01:31: motor as you can see there is one large
+00:01:35: QR codes small QR code one large 1D
+00:01:38: barcode then one small one debacle
+00:01:41: and now let's try and start the rotating
+00:01:44: motor to test the speed of the scanner
+00:01:59: so this was the unboxing and
+00:02:02: installation of
+00:02:03: dc5132 tabletop barcode scanner
+00:02:07: thank you so much for watching the video
+00:02:10: foreign
